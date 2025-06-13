@@ -15,13 +15,13 @@ Thank you for your submission! Please fill in the sections below to ensure your 
 By submitting to this program, I confirm that:
 
 - [x] I am over 18 years old or the age of majority in my jurisdiction of residence, or I am a business entity
-- [ ] I am not a resident of, citizen of, or located in:
-  - [ ] United States
-  - [ ] Any geographic area subject to UN sanctions
-  - [ ] Any geographic area subject to US sanctions
-  - [ ] Any geographic area subject to EU sanctions
-  - [ ] Any geographic area subject to Swiss sanctions
-  - [ ] Any geographic area subject to any other sovereign country sanctions or embargoes
+- [] I am not a resident of, citizen of, or located in:
+  - [x] United States
+  - [x] Any geographic area subject to UN sanctions
+  - [x] Any geographic area subject to US sanctions
+  - [x] Any geographic area subject to EU sanctions
+  - [x] Any geographic area subject to Swiss sanctions
+  - [x] Any geographic area subject to any other sovereign country sanctions or embargoes
 
 ---
 
